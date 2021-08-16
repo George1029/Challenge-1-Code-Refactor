@@ -4,5 +4,5 @@
 # Description
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it. This week the challenge was a marketing agency has hired me to refactor an existing site to make it more accessible. links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines.
 
-#URL
+# URL
 https://github.com/George1029/challenge-1-Code-Refactor
